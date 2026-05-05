@@ -146,6 +146,11 @@ pip install -r requirements.txt
 
 ---
 
+## 📥 Dados
+
+O dataset utilizado neste projeto está disponível na pasta data/.
+
+---
 ## 💡 Conclusão
 
 Melhorar o NPS não depende apenas de encantar o cliente, mas de eliminar consistentemente as fricções ao longo da jornada.
