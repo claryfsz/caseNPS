@@ -1,6 +1,6 @@
-# 📊 Análise de NPS e Satisfação do Cliente
+# Análise de NPS e Satisfação do Cliente
 
-## 🎯 Objetivo
+## Objetivo
 
 Este projeto tem como objetivo analisar os principais fatores que impactam a satisfação dos clientes, utilizando o NPS (Net Promoter Score) como métrica central.
 
@@ -13,27 +13,27 @@ A análise busca responder às seguintes perguntas de negócio:
 
 ---
 
-## 🧠 Contexto
+## Contexto
 
 A satisfação do cliente é um dos principais indicadores de sucesso para empresas orientadas à experiência.
 Entender os drivers de NPS permite identificar falhas operacionais e oportunidades de melhoria na jornada do cliente.
 
 ---
 
-## 📂 Estrutura dos dados
+## Estrutura dos dados
 
 O dataset contém informações sobre:
 
-* 👤 Perfil do cliente (idade, região, tempo de relacionamento)
-* 🛒 Pedidos (valor, quantidade de itens, parcelas)
-* 🚚 Logística (tempo de entrega, atrasos, tentativas)
-* 📞 Atendimento (contatos com suporte, tempo de resolução)
-* 😡 Experiência (reclamações, CSAT)
-* ⭐ NPS (pontuação de satisfação)
+* Perfil do cliente (idade, região, tempo de relacionamento)
+* Pedidos (valor, quantidade de itens, parcelas)
+* Logística (tempo de entrega, atrasos, tentativas)
+* Atendimento (contatos com suporte, tempo de resolução)
+* Experiência (reclamações, CSAT)
+* NPS (pontuação de satisfação)
 
 ---
 
-## ⚙️ Metodologia
+## Metodologia
 
 A análise foi conduzida em etapas:
 
@@ -57,9 +57,9 @@ A análise foi conduzida em etapas:
 
 ---
 
-## 📊 Principais Insights
+## Principais Insights
 
-### 🔑 Drivers de satisfação
+### Drivers de satisfação
 
 A satisfação do cliente está fortemente associada a fatores operacionais:
 
@@ -68,11 +68,9 @@ A satisfação do cliente está fortemente associada a fatores operacionais:
 * Tempo de resolução
 * Quantidade de reclamações
 
-👉 Quanto maior a fricção na jornada, menor o NPS.
-
 ---
 
-### 😡 O que gera detratores
+###  O que gera detratores
 
 Clientes detratores apresentam:
 
@@ -81,22 +79,18 @@ Clientes detratores apresentam:
 * Maior tempo de resolução
 * Atrasos mais elevados
 
-👉 Detratores surgem do acúmulo de problemas, e não de um único evento.
-
 ---
 
-### ⚠️ Ponto de ruptura
+### Ponto de ruptura
 
 Foi identificado um limite crítico na experiência:
 
 * Atrasos acima de 2 dias → queda acentuada no NPS
 * Mais de 3 contatos com suporte → aumento significativo de detratores
 
-👉 A experiência deixa de ser recuperável após esse ponto.
-
 ---
 
-### 👥 Perfis de clientes
+### Perfis de clientes
 
 **Clientes com alto NPS:**
 
@@ -112,18 +106,18 @@ Foi identificado um limite crítico na experiência:
 
 ---
 
-## 📈 Recomendações
+## Recomendações
 
 Com base na análise:
 
-* 🚚 Reduzir atrasos logísticos (principal driver)
-* 📞 Melhorar eficiência do atendimento (resolver no primeiro contato)
-* ⚙️ Monitorar clientes com alto risco de churn/detrator
-* 📊 Implementar acompanhamento contínuo de NPS
+* Reduzir atrasos logísticos (principal driver)
+* Melhorar eficiência do atendimento (resolver no primeiro contato)
+* Monitorar clientes com alto risco de churn/detrator
+* Implementar acompanhamento contínuo de NPS
 
 ---
 
-## 🛠️ Tecnologias utilizadas
+## Tecnologias utilizadas
 
 * Python
 * Pandas
@@ -132,7 +126,7 @@ Com base na análise:
 
 ---
 
-## 🚀 Como executar
+## Como executar
 
 ```bash
 # Clone o repositório
@@ -146,12 +140,12 @@ pip install -r requirements.txt
 
 ---
 
-## 📥 Dados
+## Dados
 
 O dataset utilizado neste projeto está disponível na pasta data/.
 
 ---
-## 💡 Conclusão
+## Conclusão
 
 Melhorar o NPS não depende apenas de encantar o cliente, mas de eliminar consistentemente as fricções ao longo da jornada.
 
