@@ -151,7 +151,7 @@ Melhorar o NPS não depende apenas de encantar o cliente, mas de eliminar consis
 
 ---
 
-## 👩‍💻 Autores
+## Autores
 
 Maria Clara Ferreira  
 Alunos da Postech de IA Scientist
