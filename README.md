@@ -2,9 +2,9 @@
 
 ## Objetivo
 
-Este projeto tem como objetivo analisar os principais fatores que impactam a satisfação dos clientes, utilizando o NPS (Net Promoter Score) como métrica central.
+Este projeto tem como objetivo analisar quais fatores operacionais impactam diretamente na satisfação final do cliente.
 
-A análise busca responder às seguintes perguntas de negócio:
+A análise busca principlamente responder às seguintes perguntas de negócio:
 
 * Quais fatores são mais críticos para a satisfação?
 * O que mais gera detratores?
@@ -15,8 +15,7 @@ A análise busca responder às seguintes perguntas de negócio:
 
 ## Contexto
 
-A satisfação do cliente é um dos principais indicadores de sucesso para empresas orientadas à experiência.
-Entender os drivers de NPS permite identificar falhas operacionais e oportunidades de melhoria na jornada do cliente.
+Apos o crescimento acelerado de um e-commerce nacional temos o cenário de uma empresa que passou a lidar com um volume cada vez maior de pedidos, entregas e interações com clientes, o que revelou desafios relevantes na experiência do cliente, especialmente refletidos na alta variabilidade do Net Promoter Score (NPS).
 
 ---
 
