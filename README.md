@@ -2,7 +2,8 @@
 
 ## Objetivo
 
-Este projeto tem como objetivo analisar quais fatores operacionais impactam diretamente na satisfação final do cliente.
+Este projeto tem como objetivo traduzir análises técnicas e dados brutos de NPS em insights acionáveis para o negócio.
+A partir da análise da variabilidade do NPS, buscamos entender como a experiência do cliente impacta os resultados e, com isso, propor recomendações claras que apoiem tanto a área logística quanto iniciativas de melhoria contínua da experiência do cliente.
 
 A análise busca principlamente responder às seguintes perguntas de negócio:
 
@@ -15,7 +16,7 @@ A análise busca principlamente responder às seguintes perguntas de negócio:
 
 ## Contexto
 
-Apos o crescimento acelerado de um e-commerce nacional temos o cenário de uma empresa que passou a lidar com um volume cada vez maior de pedidos, entregas e interações com clientes, o que revelou desafios relevantes na experiência do cliente, especialmente refletidos na alta variabilidade do Net Promoter Score (NPS).
+Um e-commerce nacional recentemente passou por um crescimento acelerado de vendas, o que por um lado foi benéfico para o negócio, já que trouxe ganhos importantes de escala, entretanto proporcionalmente elevou os desafios relevantes na experiência do cliente, o que acabou refletindo diretamente na alta variabilidade do Net Promoter Score (NPS) entre diferentes perfis de consumidores.
 
 ---
 
@@ -56,66 +57,6 @@ A análise foi conduzida em etapas:
 
 ---
 
-## Principais Insights
-
-### Drivers de satisfação
-
-A satisfação do cliente está fortemente associada a fatores operacionais:
-
-* Atraso na entrega
-* Número de contatos com suporte
-* Tempo de resolução
-* Quantidade de reclamações
-
----
-
-###  O que gera detratores
-
-Clientes detratores apresentam:
-
-* Mais interações com suporte
-* Maior número de reclamações
-* Maior tempo de resolução
-* Atrasos mais elevados
-
----
-
-### Ponto de ruptura
-
-Foi identificado um limite crítico na experiência:
-
-* Atrasos acima de 2 dias → queda acentuada no NPS
-* Mais de 3 contatos com suporte → aumento significativo de detratores
-
----
-
-### Perfis de clientes
-
-**Clientes com alto NPS:**
-
-* Baixa fricção operacional
-* Pouco contato com suporte
-* Maior taxa de recompra
-
-**Clientes com baixo NPS:**
-
-* Alta exposição a problemas
-* Múltiplas interações com suporte
-* Mais reclamações
-
----
-
-## Recomendações
-
-Com base na análise:
-
-* Reduzir atrasos logísticos (principal driver)
-* Melhorar eficiência do atendimento (resolver no primeiro contato)
-* Monitorar clientes com alto risco de churn/detrator
-* Implementar acompanhamento contínuo de NPS
-
----
-
 ## Tecnologias utilizadas
 
 * Python
@@ -144,7 +85,7 @@ pip install -r requirements.txt
 O dataset utilizado neste projeto está disponível na pasta data/.
 
 ---
-## Conclusão
+## Resumo da conclusão
 
 Melhorar o NPS não depende apenas de encantar o cliente, mas de eliminar consistentemente as fricções ao longo da jornada.
 
@@ -152,5 +93,6 @@ Melhorar o NPS não depende apenas de encantar o cliente, mas de eliminar consis
 
 ## Autores
 
-Maria Clara Ferreira  
-Alunos da Postech de IA Scientist
+Maria Clara Ferreira de Souza Bova RM: 371497
+Luiz Eduardo Teixeira Alves de Oliveira RM: 374244
+Alunos da Postech de AI Scientist
