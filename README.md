@@ -70,7 +70,7 @@ A análise foi conduzida em etapas:
 
 ```bash
 # Clone o repositório
-git clone <seu-repo>
+git clone <https://github.com/claryfsz/caseNPS.git>
 
 # Instale as dependências
 pip install -r requirements.txt
