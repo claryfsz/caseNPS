@@ -93,6 +93,6 @@ Melhorar o NPS não depende apenas de encantar o cliente, mas de eliminar consis
 
 ## Autores
 
-Maria Clara Ferreira de Souza Bova RM: 371497
-Luiz Eduardo Teixeira Alves de Oliveira RM: 374244
+   * Maria Clara Ferreira de Souza Bova RM: 371497
+   * Luiz Eduardo Teixeira Alves de Oliveira RM: 374244
 Alunos da Postech de AI Scientist
